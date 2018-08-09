@@ -12,7 +12,6 @@ const request = require('request');
 const bodyParser = require('body-parser');
 require('dotenv').load();
 
-
 /* Global declarations */
 var app = express();
 
